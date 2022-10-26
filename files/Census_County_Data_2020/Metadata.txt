@@ -1,0 +1,48 @@
+Column Name - Column Description
+TOTALPOP - Total Population
+WHITEALONE - White Population
+BLACKALONE - Black Population
+AMERIALONE - American Indian Population
+ASIANALONE - Asian Population
+PIALONE - Hawaiian or Pacific Islander Population
+OTHERALONE - Other Race Population
+MULTIALONE - Two or More Race Population
+HISPANIC - Hispanic Population
+NOTHISP - Non-Hispanic Population
+NHWHITE - White Non-Hispanic Population
+NHBLACK - Black Non-Hispanic Population
+NHAMERI - American Indian Non-Hispanic Population
+NHASIAN - Asian Non-Hispanic Population
+NHPI - Hawaiian or Pacific Islander Non-Hispanic Population
+NHOTHER - Other Race Non-Hispanic Population
+NHMULTI - Two or More Race Non-Hispanic Population
+POP18 - 18 and Older Population
+WHITE18 - White 18 and Older Population
+BLACK18 - Black 18 and Older Population
+AMERI18 - American Indian 18 and Older Population
+ASIAN18 - Asian 18 and Older Population
+PI18 - Hawaiian or Pacific Islander 18 and Older Population
+OTHER18 - Other Race 18 and Older Population
+MULTI18 - Two or More Race 18 and Older Population
+HISP18 - Hispanic 18 and Older Population
+NOTHISP18 - Non-Hispanic 18 and Older Population
+NHWHITE18 - White Non-Hispanic 18 and Older Population
+NHBLACK18 - Black Non-Hispanic 18 and Older Population
+NHAMERI18 - American Indian Non-Hispanic 18 and Older Population
+NHASIAN18 - Asian Non-Hispanic 18 and Older Population
+NHPI18 - Hawaiian or Pacific Islander Non-Hispanic 18 and Older Population
+NHOTHER18 - Other Race Non-Hispanic 18 and Older Population
+NHMULTI18 - Two or More Race Non-Hispanic 18 and Older Population
+HOUSEUNIT - Housing Units
+OCCUPIED - Occupied Housing Units
+VACANT - Vacant Housing Units
+GQPOP - Population in Group Quarters
+INSTITPOP - Institutionalized Population
+CORRPOP - Population in Adult Correctional Facilities
+JUVPOP - Population in Juvenile Correctional Facilities
+NURSINGPOP - Population in Nursing/Skilled Nursing Facilities
+OINSTITPOP - Population in Other Institutional Facilities
+NONINSTPOP - Noninstitutionalized Population
+COLLEGEPOP - Population in Student Housing
+MILITPOP - Population in Military Quarters
+ONINSTITPOP - Population in Other Noninstitutional Facilities
